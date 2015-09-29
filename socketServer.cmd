@@ -1,0 +1,1 @@
+start /B php.exe "C:\Program Files\BitNami WAMPStack\apache2\htdocs\chat\server.php"
